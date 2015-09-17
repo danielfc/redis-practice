@@ -1,0 +1,14 @@
+{
+  "name": "redis-practice",
+  "version": "1.0.0",
+  "description": "Examples from the book Redis Essentials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "danielfc",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^1.0.0"
+  }
+}
